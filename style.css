@@ -5,7 +5,9 @@ body {
 }
 
 title {
-   height: 10em;
-   position: relative 
+   margin: 0;
+   position: absolute;               
+   top: 50%;                         
+   transform: translate(0, -50%)
   
 }
